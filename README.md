@@ -57,4 +57,5 @@ Jupyter Notebook
 🙌 Author
 
 Luis Gutiérrez
-Business Analyst & Data Analytics Student
+Business & Data Analyst
+
