@@ -1,4 +1,4 @@
-🎮 Video Game Sales Analysis – TripleTen Project
+🎮 Video Game Sales Analysis – Project
 📌 Project Overview
 
 This project analyzes global video game sales using open-source data from the online store Ice, which distributes games worldwide.
@@ -50,7 +50,7 @@ numpy
 
 matplotlib
 
-seaborn (if used)
+seaborn 
 
 Jupyter Notebook
 
@@ -58,4 +58,5 @@ Jupyter Notebook
 
 Luis Gutiérrez
 Business & Data Analyst
+
 
